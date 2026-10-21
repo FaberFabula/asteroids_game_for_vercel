@@ -1,0 +1,45 @@
+{
+  "python": "3.12",
+  "packages": [
+    {
+      "name": "Box2D",
+      "version": "2.3.10",
+      "file": "Box2D-2.3.10-cp312-cp312-wasm32_bi_emscripten.whl",
+      "url": "https://raw.githubusercontent.com/pygame-web/archives/main/repo/cp312/Box2D-2.3.10-cp312-cp312-wasm32_bi_emscripten.whl",
+      "sha256": "ca50ea96f3a92f79f87ec196dfc5a02b4dffa8667377c5e1224d8a3082d347ae",
+      "package_index": "https://raw.githubusercontent.com/pygame-web/archives/main/repo/index-0.9.3-cp312.json",
+      "checksum_provenance": "Calculated from the official upstream GitHub wheel downloaded with verified HTTPS; the upstream package index provides the filename but no digest.",
+      "bytes": 1297254
+    },
+    {
+      "name": "numpy",
+      "version": "2.0.2",
+      "file": "numpy-2.0.2-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/numpy-2.0.2-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "sha256": "ebb61241d962b98b21597d7ce43b67668a6d5bab3acec4fbe958657320d7cd08",
+      "package_index": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pyodide-lock.json",
+      "checksum_provenance": "Verified against the sha256 in the official Pyodide v0.27.7 package lock.",
+      "bytes": 3061133
+    },
+    {
+      "name": "pygame-ce",
+      "version": "2.5.7",
+      "file": "pygame_ce-2.5.7-cp312-cp312-wasm32_bi_emscripten.whl",
+      "url": "https://raw.githubusercontent.com/pygame-web/cdn/main/cp312/pygame_ce-2.5.7-cp312-cp312-wasm32_bi_emscripten.whl",
+      "sha256": "4f2caa3020592950565f3649c41e2eeacd001be93da892d60e5a4a43d893a323",
+      "package_index": "https://raw.githubusercontent.com/pygame-web/cdn/main/index-0.9.3-cp312.json",
+      "checksum_provenance": "Calculated from the official upstream GitHub wheel downloaded with verified HTTPS; the upstream package index provides the filename but no digest.",
+      "bytes": 1527290
+    },
+    {
+      "name": "shapely",
+      "version": "2.0.6",
+      "file": "shapely-2.0.6-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/shapely-2.0.6-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "sha256": "5a1354ccee47c150f5fc764e2f1ec7cc6aa2a4e9f028c0e9de5b83c5b5d53026",
+      "package_index": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pyodide-lock.json",
+      "checksum_provenance": "Verified against the sha256 in the official Pyodide v0.27.7 package lock. This wheel already contains the GEOS 3.12.1 shared libraries.",
+      "bytes": 832444
+    }
+  ]
+}
